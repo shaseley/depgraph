@@ -1,0 +1,7 @@
+= `depgraph`: a Simple Dependency Graph
+
+`depgraph` is a simple dependency graph library that allows you to specify
+dependencies between components, topologically sort it, and determine if there
+are cycles in the graph.
+
+**Note:** This library is still in development
